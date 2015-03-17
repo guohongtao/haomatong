@@ -32,14 +32,10 @@
   
   self.window.backgroundColor = [UIColor whiteColor];
   [self.window makeKeyAndVisible];
-//  if ([UIApplication instancesRespondToSelector:@selector(registerUserNotificationSettings:)])
-//  {
-//    [application registerUserNotificationSettings:[UIUserNotificationSettings settingsForTypes:UIUserNotificationTypeAlert categories:nil]];
-//  }
   
-  dispatch_after(dispatch_time(DISPATCH_TIME_NOW, 10 * NSEC_PER_SEC),dispatch_get_current_queue(), ^{
-        [HPNotificationManager showMessage:@"I'm still alive"];
-  });
+//  dispatch_after(dispatch_time(DISPATCH_TIME_NOW, 10 * NSEC_PER_SEC),dispatch_get_current_queue(), ^{
+//        [HPNotificationManager showMessage:@"I'm still alive"];
+//  });
   
   return YES;
 }
