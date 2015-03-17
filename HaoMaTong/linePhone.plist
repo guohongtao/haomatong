@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>010</key>
+	<string>北京</string>
+	<key>020</key>
+	<string>广东	广州</string>
+	<key>021</key>
+	<string>上海</string>
+	<key>022</key>
+	<string>天津</string>
+	<key>023</key>
+	<string>重庆</string>
+	<key>024</key>
+	<string>辽宁	沈阳</string>
+	<key>025</key>
+	<string>江苏	南京</string>
+	<key>027</key>
+	<string>湖北	武汉</string>
+	<key>028</key>
+	<string>四川	成都</string>
+	<key>029</key>
+	<string>陕西	西安/咸阳</string>
+	<key>00852</key>
+	<string>香港</string>
+	<key>00853</key>
+	<string>澳门</string>
+	<key>00856</key>
+	<string>台湾</string>
+	<key>0310</key>
+	<string>河北 邯郸</string>
+	<key>0311</key>
+	<string>河北 石家庄</string>
+	<key>0312</key>
+	<string>河北 保定</string>
+	<key>0313</key>
+	<string>河北 张家口</string>
+	<key>0314</key>
+	<string>河北 承德</string>
+	<key>0315</key>
+	<string>河北 唐山</string>
+	<key>0316</key>
+	<string>河北 廊坊</string>
+	<key>0317</key>
+	<string>河北 沧州</string>
+	<key>0318</key>
+	<string>河北 衡水</string>
+	<key>0319</key>
+	<string>河北 邢台</string>
+	<key>0335</key>
+	<string>河北 秦皇岛</string>
+	<key>0349</key>
+	<string>山西 朔州</string>
+	<key>0350</key>
+	<string>山西 忻州</string>
+	<key>0351</key>
+	<string>山西 太原</string>
+	<key>0352</key>
+	<string>山西 大同</string>
+	<key>0353</key>
+	<string>山西 阳泉</string>
+	<key>0354</key>
+	<string>山西 晋中</string>
+	<key>0355</key>
+	<string>山西 长治</string>
+	<key>0356</key>
+	<string>山西 晋城</string>
+	<key>0357</key>
+	<string>山西 临汾</string>
+	<key>0358</key>
+	<string>山西 吕梁</string>
+	<key>0359</key>
+	<string>山西 运城</string>
+	<key>0370</key>
+	<string>河南 商丘</string>
+	<key>0371</key>
+	<string>河南 郑州</string>
+	<key>0372</key>
+	<string>河南 安阳</string>
+	<key>0373</key>
+	<string>河南 新乡</string>
+	<key>0374</key>
+	<string>河南 许昌</string>
+	<key>0375</key>
+	<string>河南 平顶山</string>
+	<key>0376</key>
+	<string>河南 信阳</string>
+	<key>0377</key>
+	<string>河南 南阳</string>
+	<key>0378</key>
+	<string>河南 开封</string>
+	<key>0379</key>
+	<string>河南 洛阳</string>
+	<key>0391</key>
+	<string>河南 焦作</string>
+	<key>0392</key>
+	<string>河南 鹤壁</string>
+	<key>0393</key>
+	<string>河南 濮阳</string>
+	<key>0394</key>
+	<string>河南 周口</string>
+	<key>0395</key>
+	<string>河南 漯河</string>
+	<key>0398</key>
+	<string>河南 三门峡</string>
+	<key>0410</key>
+	<string>辽宁 铁岭</string>
+	<key>0411</key>
+	<string>辽宁 大连</string>
+	<key>0412</key>
+	<string>辽宁 鞍山</string>
+	<key>0413</key>
+	<string>辽宁 抚顺</string>
+	<key>0414</key>
+	<string>辽宁 本溪</string>
+	<key>0415</key>
+	<string>辽宁 丹东</string>
+	<key>0416</key>
+	<string>辽宁 锦州</string>
+	<key>0417</key>
+	<string>辽宁 营口</string>
+	<key>0418</key>
+	<string>辽宁 阜新</string>
+	<key>0419</key>
+	<string>辽宁 辽阳</string>
+	<key>0421</key>
+	<string>辽宁 朝阳</string>
+	<key>0427</key>
+	<string>辽宁 盘锦</string>
+	<key>0429</key>
+	<string>辽宁 葫芦岛</string>
+	<key>0431</key>
+	<string>吉林 长春</string>
+	<key>0432</key>
+	<string>吉林 吉林</string>
+	<key>0433</key>
+	<string>吉林 延边朝鲜族自治州</string>
+	<key>0434</key>
+	<string>吉林 四平</string>
+	<key>0435</key>
+	<string>吉林 通化</string>
+	<key>0436</key>
+	<string>吉林 白城</string>
+	<key>0437</key>
+	<string>吉林 辽源</string>
+	<key>0438</key>
+	<string>吉林 松原</string>
+	<key>0439</key>
+	<string>吉林 白山</string>
+	<key>0451</key>
+	<string>黑龙江 哈尔滨</string>
+	<key>0452</key>
+	<string>黑龙江 齐齐哈尔</string>
+	<key>0453</key>
+	<string>黑龙江 牡丹江</string>
+	<key>0454</key>
+	<string>黑龙江 佳木斯</string>
+	<key>0455</key>
+	<string>黑龙江 绥化</string>
+	<key>0456</key>
+	<string>黑龙江 黑河</string>
+	<key>0457</key>
+	<string>黑龙江 大兴安岭地区</string>
+	<key>0458</key>
+	<string>黑龙江 伊春</string>
+	<key>0459</key>
+	<string>黑龙江 大庆</string>
+	<key>0464</key>
+	<string>黑龙江 七台河</string>
+	<key>0467</key>
+	<string>黑龙江 鸡西</string>
+	<key>0468</key>
+	<string>黑龙江 鹤岗</string>
+	<key>0469</key>
+	<string>黑龙江 双鸭山</string>
+	<key>0470</key>
+	<string>内蒙古 呼伦贝尔</string>
+	<key>0471</key>
+	<string>内蒙古 呼和浩特</string>
+	<key>0472</key>
+	<string>内蒙古 包头</string>
+	<key>0473</key>
+	<string>内蒙古 乌海</string>
+	<key>0474</key>
+	<string>内蒙古 乌兰察布</string>
+	<key>0475</key>
+	<string>内蒙古 通辽</string>
+	<key>0476</key>
+	<string>内蒙古 赤峰</string>
+	<key>0477</key>
+	<string>内蒙古 鄂尔多斯</string>
+	<key>0478</key>
+	<string>内蒙古 巴彦淖尔</string>
+	<key>0479</key>
+	<string>内蒙古 锡林郭勒盟</string>
+	<key>0482</key>
+	<string>内蒙古 兴安盟</string>
+	<key>0483</key>
+	<string>内蒙古 阿拉善盟</string>
+	<key>0510</key>
+	<string>江苏 无锡</string>
+	<key>0511</key>
+	<string>江苏 镇江</string>
+	<key>0512</key>
+	<string>江苏 苏州</string>
+	<key>0513</key>
+	<string>江苏 南通</string>
+	<key>0514</key>
+	<string>江苏 扬州</string>
+	<key>0515</key>
+	<string>江苏 盐城</string>
+	<key>0516</key>
+	<string>江苏 徐州</string>
+	<key>0517</key>
+	<string>江苏 淮安</string>
+	<key>0518</key>
+	<string>江苏 连云港</string>
+	<key>0519</key>
+	<string>江苏 常州</string>
+	<key>0523</key>
+	<string>江苏 泰州</string>
+	<key>0527</key>
+	<string>江苏 宿迁</string>
+	<key>0530</key>
+	<string>山东 菏泽</string>
+	<key>0531</key>
+	<string>山东 济南</string>
+	<key>0532</key>
+	<string>山东 青岛</string>
+	<key>0533</key>
+	<string>山东 淄博</string>
+	<key>0534</key>
+	<string>山东 德州</string>
+	<key>0535</key>
+	<string>山东 烟台</string>
+	<key>0536</key>
+	<string>山东 潍坊</string>
+	<key>0537</key>
+	<string>山东 济宁</string>
+	<key>0538</key>
+	<string>山东 泰安</string>
+	<key>0539</key>
+	<string>山东 临沂</string>
+	<key>0543</key>
+	<string>山东 滨州</string>
+	<key>0546</key>
+	<string>山东 东营</string>
+	<key>0550</key>
+	<string>安徽 滁州</string>
+	<key>0551</key>
+	<string>安徽 合肥</string>
+	<key>0552</key>
+	<string>安徽 蚌埠</string>
+	<key>0553</key>
+	<string>安徽 芜湖</string>
+	<key>0554</key>
+	<string>安徽 淮南</string>
+	<key>0555</key>
+	<string>安徽 马鞍山</string>
+	<key>0556</key>
+	<string>安徽 安庆</string>
+	<key>0557</key>
+	<string>安徽 宿州</string>
+	<key>0558</key>
+	<string>安徽 阜阳/亳州</string>
+	<key>0559</key>
+	<string>安徽 黄山</string>
+	<key>0561</key>
+	<string>安徽 淮北</string>
+	<key>0562</key>
+	<string>安徽 铜陵</string>
+	<key>0563</key>
+	<string>安徽 宣城</string>
+	<key>0564</key>
+	<string>安徽 六安</string>
+	<key>0565</key>
+	<string>安徽 巢湖</string>
+	<key>0566</key>
+	<string>安徽 池州</string>
+	<key>0570</key>
+	<string>浙江 衢州</string>
+	<key>0571</key>
+	<string>浙江 杭州</string>
+	<key>0572</key>
+	<string>浙江 湖州</string>
+	<key>0573</key>
+	<string>浙江 嘉兴</string>
+	<key>0574</key>
+	<string>浙江 宁波</string>
+	<key>0575</key>
+	<string>浙江 绍兴</string>
+	<key>0576</key>
+	<string>浙江 台州</string>
+	<key>0577</key>
+	<string>浙江 温州</string>
+	<key>0578</key>
+	<string>浙江 丽水</string>
+	<key>0579</key>
+	<string>浙江 金华</string>
+	<key>0580</key>
+	<string>浙江 舟山</string>
+	<key>0591</key>
+	<string>福建 福州</string>
+	<key>0592</key>
+	<string>福建 厦门</string>
+	<key>0593</key>
+	<string>福建 宁德</string>
+	<key>0594</key>
+	<string>福建 莆田</string>
+	<key>0595</key>
+	<string>福建 泉州</string>
+	<key>0596</key>
+	<string>福建 漳州</string>
+	<key>0597</key>
+	<string>福建 龙岩</string>
+	<key>0598</key>
+	<string>福建 三明</string>
+	<key>0599</key>
+	<string>福建 南平</string>
+	<key>0631</key>
+	<string>山东 威海</string>
+	<key>0632</key>
+	<string>山东 枣庄</string>
+	<key>0633</key>
+	<string>山东 日照</string>
+	<key>0634</key>
+	<string>山东 莱芜</string>
+	<key>0635</key>
+	<string>山东 聊城</string>
+	<key>0660</key>
+	<string>广东 汕尾</string>
+	<key>0662</key>
+	<string>广东 阳江</string>
+	<key>0663</key>
+	<string>广东 揭阳</string>
+	<key>0668</key>
+	<string>广东 茂名</string>
+	<key>0691</key>
+	<string>云南 西双版纳傣族自治州</string>
+	<key>0692</key>
+	<string>云南 德宏傣族景颇族自治州</string>
+	<key>0701</key>
+	<string>江西 鹰潭</string>
+	<key>0710</key>
+	<string>湖北 襄樊</string>
+	<key>0711</key>
+	<string>湖北 鄂州</string>
+	<key>0712</key>
+	<string>湖北 孝感</string>
+	<key>0713</key>
+	<string>湖北 黄冈</string>
+	<key>0714</key>
+	<string>湖北 黄石</string>
+	<key>0715</key>
+	<string>湖北 咸宁</string>
+	<key>0716</key>
+	<string>湖北 荆州</string>
+	<key>0717</key>
+	<string>湖北 宜昌</string>
+	<key>0718</key>
+	<string>湖北 恩施土家族苗族自治州</string>
+	<key>0719</key>
+	<string>湖北 十堰/神农架林区</string>
+	<key>0722</key>
+	<string>湖北 随州</string>
+	<key>0724</key>
+	<string>湖北 荆门</string>
+	<key>0728</key>
+	<string>湖北 潜江/天门/仙桃</string>
+	<key>0730</key>
+	<string>湖南 岳阳</string>
+	<key>0731</key>
+	<string>湖南 长沙</string>
+	<key>0732</key>
+	<string>湖南 湘潭</string>
+	<key>0733</key>
+	<string>湖南 株洲</string>
+	<key>0734</key>
+	<string>湖南 衡阳</string>
+	<key>0735</key>
+	<string>湖南 郴州</string>
+	<key>0736</key>
+	<string>湖南 常德</string>
+	<key>0737</key>
+	<string>湖南 益阳</string>
+	<key>0738</key>
+	<string>湖南 娄底</string>
+	<key>0739</key>
+	<string>湖南 邵阳</string>
+	<key>0743</key>
+	<string>湖南 湘西土家族苗族自治州</string>
+	<key>0744</key>
+	<string>湖南 张家界</string>
+	<key>0745</key>
+	<string>湖南 怀化</string>
+	<key>0746</key>
+	<string>湖南 永州</string>
+	<key>0750</key>
+	<string>广东 江门</string>
+	<key>0751</key>
+	<string>广东 韶关</string>
+	<key>0752</key>
+	<string>广东 惠州</string>
+	<key>0753</key>
+	<string>广东 梅州</string>
+	<key>0754</key>
+	<string>广东 汕头</string>
+	<key>0755</key>
+	<string>广东 深圳</string>
+	<key>0756</key>
+	<string>广东 珠海</string>
+	<key>0757</key>
+	<string>广东 佛山</string>
+	<key>0758</key>
+	<string>广东 肇庆</string>
+	<key>0759</key>
+	<string>广东 湛江</string>
+	<key>0760</key>
+	<string>广东 中山</string>
+	<key>0762</key>
+	<string>广东 河源</string>
+	<key>0763</key>
+	<string>广东 清远</string>
+	<key>0766</key>
+	<string>广东 云浮</string>
+	<key>0768</key>
+	<string>广东 潮州</string>
+	<key>0769</key>
+	<string>广东 东莞</string>
+	<key>0770</key>
+	<string>广西 防城港</string>
+	<key>0771</key>
+	<string>广西 南宁/崇左</string>
+	<key>0772</key>
+	<string>广西 柳州/来宾</string>
+	<key>0773</key>
+	<string>广西 桂林</string>
+	<key>0774</key>
+	<string>广西 梧州/贺州</string>
+	<key>0775</key>
+	<string>广西 玉林/贵港</string>
+	<key>0776</key>
+	<string>广西 百色</string>
+	<key>0777</key>
+	<string>广西 钦州</string>
+	<key>0778</key>
+	<string>广西 河池</string>
+	<key>0779</key>
+	<string>广西 北海</string>
+	<key>0790</key>
+	<string>江西 新余</string>
+	<key>0791</key>
+	<string>江西 南昌</string>
+	<key>0792</key>
+	<string>江西 九江</string>
+	<key>0793</key>
+	<string>江西 上饶</string>
+	<key>0794</key>
+	<string>江西 抚州</string>
+	<key>0795</key>
+	<string>江西 宜春</string>
+	<key>0796</key>
+	<string>江西 吉安</string>
+	<key>0797</key>
+	<string>江西 赣州</string>
+	<key>0798</key>
+	<string>江西 景德镇</string>
+	<key>0799</key>
+	<string>江西 萍乡</string>
+	<key>0812</key>
+	<string>四川 攀枝花</string>
+	<key>0813</key>
+	<string>四川 自贡</string>
+	<key>0816</key>
+	<string>四川 绵阳</string>
+	<key>0817</key>
+	<string>四川 南充</string>
+	<key>0818</key>
+	<string>四川 达州</string>
+	<key>0825</key>
+	<string>四川 遂宁</string>
+	<key>0826</key>
+	<string>四川 广安</string>
+	<key>0827</key>
+	<string>四川 巴中</string>
+	<key>0830</key>
+	<string>四川 泸州</string>
+	<key>0831</key>
+	<string>四川 宜宾</string>
+	<key>0832</key>
+	<string>四川 内江/资阳</string>
+	<key>0833</key>
+	<string>四川 乐山/眉山</string>
+	<key>0834</key>
+	<string>四川 凉山彝族自治州</string>
+	<key>0835</key>
+	<string>四川 雅安</string>
+	<key>0836</key>
+	<string>四川 甘孜藏族自治州</string>
+	<key>0837</key>
+	<string>四川 阿坝藏族羌族自治州</string>
+	<key>0838</key>
+	<string>四川 德阳</string>
+	<key>0839</key>
+	<string>四川 广元</string>
+	<key>0851</key>
+	<string>贵州 贵阳</string>
+	<key>0852</key>
+	<string>贵州 遵义</string>
+	<key>00852</key>
+	<string>香港</string>
+	<key>0853</key>
+	<string>贵州 安顺</string>
+	<key>00853</key>
+	<string>澳门</string>
+	<key>0854</key>
+	<string>贵州 黔南布依族苗族自治州</string>
+	<key>0855</key>
+	<string>贵州 黔东南苗族侗族自治州</string>
+	<key>0856</key>
+	<string>贵州 铜仁地区</string>
+	<key>0857</key>
+	<string>贵州 毕节地区</string>
+	<key>0858</key>
+	<string>贵州 六盘水</string>
+	<key>0859</key>
+	<string>贵州 黔西南布依族苗族自治州</string>
+	<key>0870</key>
+	<string>云南 昭通</string>
+	<key>0871</key>
+	<string>云南 昆明</string>
+	<key>0872</key>
+	<string>云南 大理白族自治州</string>
+	<key>0873</key>
+	<string>云南 红河哈尼族彝族自治州</string>
+	<key>0874</key>
+	<string>云南 曲靖</string>
+	<key>0875</key>
+	<string>云南 保山</string>
+	<key>0876</key>
+	<string>云南 文山壮族苗族自治州</string>
+	<key>0877</key>
+	<string>云南 玉溪</string>
+	<key>0878</key>
+	<string>云南 楚雄彝族自治州</string>
+	<key>0879</key>
+	<string>云南 思茅</string>
+	<key>0881</key>
+	<string>云南 东川</string>
+	<key>0883</key>
+	<string>云南 临沧</string>
+	<key>0886</key>
+	<string>云南 怒江傈僳族自治州</string>
+	<key>00886</key>
+	<string>台湾</string>
+	<key>0887</key>
+	<string>云南 迪庆藏族自治州</string>
+	<key>0888</key>
+	<string>云南 丽江</string>
+	<key>0891</key>
+	<string>西藏 拉萨</string>
+	<key>0892</key>
+	<string>西藏 日喀则地区</string>
+	<key>0893</key>
+	<string>西藏 山南地区</string>
+	<key>0894</key>
+	<string>西藏 林芝地区</string>
+	<key>0895</key>
+	<string>西藏 昌都地区</string>
+	<key>0896</key>
+	<string>西藏 那曲地区</string>
+	<key>0897</key>
+	<string>西藏 阿里地区</string>
+	<key>0898</key>
+	<string>海南 海口/三亚</string>
+	<key>0901</key>
+	<string>新疆 塔城地区</string>
+	<key>0902</key>
+	<string>新疆 哈密地区</string>
+	<key>0903</key>
+	<string>新疆 和田地区</string>
+	<key>0906</key>
+	<string>新疆 阿勒泰地区</string>
+	<key>0908</key>
+	<string>新疆 克孜勒苏柯尔克孜自治州</string>
+	<key>0909</key>
+	<string>新疆 博尔塔拉蒙古自治州</string>
+	<key>0911</key>
+	<string>陕西 延安</string>
+	<key>0912</key>
+	<string>陕西 榆林</string>
+	<key>0913</key>
+	<string>陕西 渭南</string>
+	<key>0914</key>
+	<string>陕西 商洛</string>
+	<key>0915</key>
+	<string>陕西 安康</string>
+	<key>0916</key>
+	<string>陕西 汉中</string>
+	<key>0917</key>
+	<string>陕西 宝鸡</string>
+	<key>0919</key>
+	<string>陕西 铜川</string>
+	<key>0930</key>
+	<string>甘肃 临夏回族自治州</string>
+	<key>0931</key>
+	<string>甘肃 兰州</string>
+	<key>0932</key>
+	<string>甘肃 定西</string>
+	<key>0933</key>
+	<string>甘肃 平凉</string>
+	<key>0934</key>
+	<string>甘肃 庆阳</string>
+	<key>0935</key>
+	<string>甘肃 武威/金昌</string>
+	<key>0936</key>
+	<string>甘肃 张掖</string>
+	<key>0937</key>
+	<string>甘肃 酒泉/嘉峪关</string>
+	<key>0938</key>
+	<string>甘肃 天水</string>
+	<key>0939</key>
+	<string>甘肃 陇南</string>
+	<key>0941</key>
+	<string>甘肃 甘南藏族自治州</string>
+	<key>0943</key>
+	<string>甘肃 白银</string>
+	<key>0951</key>
+	<string>宁夏 银川</string>
+	<key>0952</key>
+	<string>宁夏 石嘴山</string>
+	<key>0953</key>
+	<string>宁夏 吴忠</string>
+	<key>0954</key>
+	<string>宁夏 固原</string>
+	<key>0955</key>
+	<string>宁夏 中卫</string>
+	<key>0970</key>
+	<string>青海 海北藏族自治州</string>
+	<key>0971</key>
+	<string>青海 西宁</string>
+	<key>0972</key>
+	<string>青海 海东地区</string>
+	<key>0973</key>
+	<string>青海 黄南藏族自治州</string>
+	<key>0974</key>
+	<string>青海 海南藏族自治州</string>
+	<key>0975</key>
+	<string>青海 果洛藏族自治州</string>
+	<key>0979</key>
+	<string>青海 海西蒙古族藏族自治州</string>
+	<key>0990</key>
+	<string>新疆 克拉玛依</string>
+	<key>0991</key>
+	<string>新疆 乌鲁木齐</string>
+	<key>0993</key>
+	<string>新疆 石河子</string>
+	<key>0994</key>
+	<string>新疆 五家渠/昌吉回族自治州</string>
+	<key>0995</key>
+	<string>新疆 吐鲁番地区</string>
+	<key>0996</key>
+	<string>新疆 巴音郭楞蒙古自治州</string>
+	<key>0997</key>
+	<string>新疆 阿拉尔/阿克苏地区</string>
+	<key>0998</key>
+	<string>新疆 喀什地区/图木舒克</string>
+	<key>0999</key>
+	<string>新疆 伊犁哈萨克自治州</string>
+</dict>
+</plist>
